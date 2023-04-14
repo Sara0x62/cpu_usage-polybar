@@ -1,6 +1,8 @@
 # cpu_usage-polybar
 A small script in rust to get the cpu usage in %'s with a gradient color for the text
 
+To get it to work on your PC you will have to make some changes to the path in the polybar settings (exec = ...) and the path in the .sh script
+You'll also have to make sure you compile it first
 
 Inside polybar settings;
 ```
